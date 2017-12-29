@@ -1,0 +1,5 @@
+Unikaj wszystkich plikow kompilacji
+*.o
+*.out
+*.c
+
